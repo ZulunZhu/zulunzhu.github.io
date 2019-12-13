@@ -25,13 +25,13 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    **Surrounding Perception Module of Swarm Robot**
+     **Surrounding Perception Module of Swarm Robot**
     
-    Completed surrounding perception module work utilizing camera and IMU sensor data
+     Completed surrounding perception module work utilizing camera and IMU sensor data
     
-    - Developed image stitching plug-in components for large-scale scene UAV based on OpenCV
-    - Wrote the plug-in C++ code to serialize images and made them stable in air-to-ground transmission
-    - Added the description document and provided the easy-to-use API of group perception module and accomplished communication with other project groups’ work
+     - Developed image stitching plug-in components for large-scale scene UAV based on OpenCV
+     - Wrote the plug-in C++ code to serialize images and made them stable in air-to-ground transmission
+     - Added the description document and provided the easy-to-use API of group perception module and accomplished communication with other project groups’ work
     
     
  - layout: left
@@ -42,12 +42,12 @@
    quote: >
    
    description: | # this will include new lines to allow paragraphs
-     **License Plate Recognition System Based on OpenCV**
+      **License Plate Recognition System Based on OpenCV**
     
-    Developed, tested and wrote papers of license plate recognition system
+      Developed, tested and wrote papers of license plate recognition system
     
-    - Had an intimate knowledge of the code of OpenCV feature detection and the call of API related to each feature detection
-    - Wrote and tested code; added edge detection and feature recognition technology; improved the recognition accuracy rate of the system based on our datasets to 99.8%
+      - Had an intimate knowledge of the code of OpenCV feature detection and the call of API related to each feature detection
+      - Wrote and tested code; added edge detection and feature recognition technology; improved the recognition accuracy rate of the system based on our datasets to 99.8%
   
   
   - layout: left
@@ -60,7 +60,7 @@
     description: | # this will include new lines to allow paragraphs
       **Flexible Graphene-InP Heterojunction Solar Cells**
       
-       Prepared graphene and thin flm indium phosphide, designed of heterojunction battery and peripheral circuit
+      Prepared graphene and thin flm indium phosphide, designed of heterojunction battery and peripheral circuit
       - Mastered the techniques of preparing graphene in graphene CVD growth tube furnace
       - Mastered the methods of heterojunction composed of graphene and indium phosphide; designed the peripheral circuit.
       - Mastered the method of using simulated light source to test IV characteristics of batteries.
