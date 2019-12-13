@@ -2,8 +2,8 @@
 - layout: top-middle
   name: [1] Zhu Z, Yang S, Dai H, et al. Loop detection and correction of 3d laser-based slam with visual information[C]//Proceedings of the 31st International Conference on Computer Animation and Social Agents. ACM, 2018: 53-58.
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
- # quote: >
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
  #   Short overview of the project (optional)
-#  description: | # this will include new lines to allow paragraphs
- #   Description about the work on/with the project
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
