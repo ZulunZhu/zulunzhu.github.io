@@ -13,7 +13,7 @@ email: zulun.zhu@gmail.com
 #twitter_username: jekyllrb
 github_username:  ZulunZhu
 #dribbble_username: jekyll
-facebook_username: https://www.facebook.com/profile.php?id=100038449313172
+facebook_username: 朱祖仑
 #flickr_username: jekyll
 #instagram_username: jekyll
 #linkedin_username: jekyll
@@ -26,13 +26,14 @@ facebook_username: https://www.facebook.com/profile.php?id=100038449313172
 # about_title: About Me (Use this to override about section title)
 about_profile_image: zulunzhu.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+Hi, my name’s Zulun Zhu and I was an research assistance at National University of Defense Technology.  As well as simultaneous localization and
+mapping (SLAM) systems I also have experience making swarm intelligent robot operating system and software. I have worked at a number of projects gaining teamwork and leadership skills.  I am most skilled in <mark>C++</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+ # You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+ #   - Lists
+  #  - Tables
+  #  - Links
+ #   - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -46,7 +47,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+ Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+       - Popping dance
+       - Photography
+       - Playing guitar
+       - Basketball （National second level referee）
+       - Table Tennis
+ 
+   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
