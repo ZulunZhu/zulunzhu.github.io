@@ -26,14 +26,9 @@ facebook_username: 朱祖仑
 # about_title: About Me (Use this to override about section title)
 about_profile_image: zulunzhu.JPG
 about_content: | # this will include new lines to allow paragraphs
-Hi, my name’s Zulun Zhu and I was an research assistance at National University of Defense Technology.  As well as simultaneous localization and
-mapping (SLAM) systems I also have experience making swarm intelligent robot operating system and software. I have worked at a number of projects gaining teamwork and leadership skills.  I am most skilled in <mark>C++</mark>.
+    Hi, my name’s Zulun Zhu and I was an research assistance at National University of Defense Technology.  As well as simultaneous localization and
+    mapping (SLAM) systems I also have experience making swarm intelligent robot operating system and software. I have worked at a number of projects gaining teamwork and leadership skills.  I am most skilled in <mark>C++</mark>.
 
- # You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
- #   - Lists
-  #  - Tables
-  #  - Links
- #   - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
