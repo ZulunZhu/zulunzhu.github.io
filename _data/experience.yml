@@ -7,6 +7,8 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
+    **Loop Closure of 3D Laser-based SLAM With Visual Information**
+    
     Design of loop closure of laser-based SLAM, code analysis, physical experiments and writing papers
     
     - Developed expert knowledge of overall architecture about ORB-SLAM2 and LOAM system and their code content, and the method design was carried out
@@ -19,8 +21,47 @@
   company: National University of Defense Technology
   link: 
   job_title: Research Assistant
-  dates: October 2017 – June 2019
+  dates: October 2016 – October 2017
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    Design of loop closure of laser-based SLAM, code analysis, physical experiments and writing papers
+    **Surrounding Perception Module of Swarm Robot**
+    
+    Completed surrounding perception module work utilizing camera and IMU sensor data
+    
+    - Developed image stitching plug-in components for large-scale scene UAV based on OpenCV
+    - Wrote the plug-in C++ code to serialize images and made them stable in air-to-ground transmission
+    - Added the description document and provided the easy-to-use API of group perception module and accomplished communication with other project groups’ work
+    
+    
+ - layout: left
+   company: Zhejiang University
+   link: 
+   job_title: Undergraduate
+   dates: October 2015 – June 2016
+   quote: >
+   
+   description: | # this will include new lines to allow paragraphs
+     **License Plate Recognition System Based on OpenCV**
+    
+    Developed, tested and wrote papers of license plate recognition system
+    
+    - Had an intimate knowledge of the code of OpenCV feature detection and the call of API related to each feature detection
+    - Wrote and tested code; added edge detection and feature recognition technology; improved the recognition accuracy rate of the system based on our datasets to 99.8%
+  
+  
+  - layout: left
+    company: Zhejiang University
+    link: 
+    job_title: Undergraduate
+    dates: April 2015 – April 2016
+    quote: >
+   
+    description: | # this will include new lines to allow paragraphs
+      **Flexible Graphene-InP Heterojunction Solar Cells**
+      
+       Prepared graphene and thin flm indium phosphide, designed of heterojunction battery and peripheral circuit
+      - Mastered the techniques of preparing graphene in graphene CVD growth tube furnace
+      - Mastered the methods of heterojunction composed of graphene and indium phosphide; designed the peripheral circuit.
+      - Mastered the method of using simulated light source to test IV characteristics of batteries.
+    
