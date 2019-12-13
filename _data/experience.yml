@@ -34,14 +34,14 @@
      - Added the description document and provided the easy-to-use API of group perception module and accomplished communication with other project groups’ work
     
     
- - layout: left
-   company: Zhejiang University
-   link: 
-   job_title: Undergraduate
-   dates: October 2015 – June 2016
-   quote: >
+- layout: left
+  company: Zhejiang University
+  link: 
+  job_title: Undergraduate
+  dates: October 2015 – June 2016
+  quote: >
    
-   description: | # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
       **License Plate Recognition System Based on OpenCV**
     
       Developed, tested and wrote papers of license plate recognition system
@@ -50,14 +50,14 @@
       - Wrote and tested code; added edge detection and feature recognition technology; improved the recognition accuracy rate of the system based on our datasets to 99.8%
   
   
-  - layout: left
-    company: Zhejiang University
-    link: 
-    job_title: Undergraduate
-    dates: April 2015 – April 2016
-    quote: >
+- layout: left
+  company: Zhejiang University
+  link: 
+  job_title: Undergraduate
+  dates: April 2015 – April 2016
+  quote: >
    
-    description: | # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
       **Flexible Graphene-InP Heterojunction Solar Cells**
       
       Prepared graphene and thin flm indium phosphide, designed of heterojunction battery and peripheral circuit
