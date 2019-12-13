@@ -1,9 +1,11 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Zhejiang University
+  dates:  2012 - 2016
+  qualification: BS, Electronic Science and Technology
   quote: >
-    Short institution or course description (optional)
+    Zhejiang University is located in Hangzhou, China, a famous historical and cultural city known as "heaven on earth". The former of it is Qiushi academy, founded in 1897, which is one of the earliest modern institutions of higher learning founded by the Chinese themselves.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    During my time at Zhejiang University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+    I spent a lot of my free time as as vice-president of street dance club, captain of the popping dance team, director of the university student union and national second-level basketball referee.
