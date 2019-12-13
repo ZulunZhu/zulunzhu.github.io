@@ -14,3 +14,13 @@
     - Made many KITTI data sets compatible with the system; completed the experimental test of the designed system, and eﬀectively corrected the accumulated error of the whole point cloud map
     - Assembled Husky intelligent robot; completed the construction of remote control system and the installation of sensing devices
     - Collected PCL point cloud data of campus environment; encapsulated the data and input it into the system to complete the physical experiment
+
+- layout: left
+  company: National University of Defense Technology
+  link: 
+  job_title: Research Assistant
+  dates: October 2017 – June 2019
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    Design of loop closure of laser-based SLAM, code analysis, physical experiments and writing papers
