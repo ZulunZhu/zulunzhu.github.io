@@ -1,10 +1,16 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: National University of Defense Technology
+  link: 
+  job_title: Research Assistant
+  dates: October 2017 – June 2019
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Design of loop closure of laser-based SLAM, code analysis, physical experiments and writing papers
+    
+    - Developed expert knowledge of overall architecture about ORB-SLAM2 and LOAM system and their code content, and the method design was carried out
+    - Designed, wrote and debugged the code; completed the preliminary target of laser SLAM closed-loop detection; eﬀectively reduced the cumulative error
+    - Made many KITTI data sets compatible with the system; completed the experimental test of the designed system, and eﬀectively corrected the accumulated error of the whole point cloud map
+    - Assembled Husky intelligent robot; completed the construction of remote control system and the installation of sensing devices
+    - Collected PCL point cloud data of campus environment; encapsulated the data and input it into the system to complete the physical experiment
