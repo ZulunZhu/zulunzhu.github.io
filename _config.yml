@@ -26,8 +26,10 @@ facebook_username: ZulunZhu
 # about_title: About Me (Use this to override about section title)
 about_profile_image: zulunzhu.JPG
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name’s Zulun Zhu and I graduated from Zhejiang university.  As well as simultaneous localization and
-    mapping (SLAM) systems I also have experience making swarm intelligent robot operating system and software. I have worked at a number of projects gaining teamwork and leadership skills.  I am most skilled in <mark>C++</mark>.
+    Hi, my name’s Zulun Zhu and I graduated from Zhejiang university and National University of Defense Technology for bachelor and master stages respectively. Currently I am the second-year student in Rochester Institute of Technology.
+    For the master stage, as well as simultaneous localization and
+    mapping (SLAM) systems I also have experience making swarm intelligent robot operating system and software. During my Phd stage, I am focusing on the Spiking Neural Networks and Graph Neural Networks. 
+    I have worked at a number of projects gaining teamwork and leadership skills.  I am most skilled in <mark>C++</mark>.
 
 
 # Projects Section
