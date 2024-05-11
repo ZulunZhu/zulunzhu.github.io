@@ -20,7 +20,14 @@
   qualification: MS, Computer Science
   quote: > 
     The National University of Defense Technology (NUDT) in Changsha, China, is a key institution under the Ministry of National Defense and the Ministry of Education. Founded in 1953, it specializes in science and engineering with a focus on defense technologies. NUDT is integral to China's defense advancements and technological innovation.
-  
+
+- layout: left
+  name: Georg-August-Universität Göttingen
+  dates: October 2015 - March 2016
+  qualification: Exchange student, Computer engineering
+  quote: > 
+   The University of Göttingen, founded in 1737 in Germany, is a prestigious public research university known for its contributions in the humanities, natural sciences, and social sciences. It has a notable history of academic excellence and numerous Nobel laureates among its alumni and faculty.
+    
 - layout: left
   name: Zhejiang University
   dates: September 2012 – July 2016
