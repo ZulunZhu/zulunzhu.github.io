@@ -1,4 +1,23 @@
 # Education Template
+
+- layout: left
+  name: Nanyang Technological University 
+  dates: Jan 2022 - Dec 2025(expected)
+  qualification: Ph.D. candidate, School of Computer Science and Engineering 
+  quote: > Nanyang Technological University (NTU) is a leading research-intensive university in Singapore, renowned for its excellence in education, innovation, and research. Established in 1981, NTU has quickly grown to become one of the largest and most prestigious universities in Asia.
+  
+- layout: left
+  name: Rochester Institute of Technology 
+  dates: August 2020 - June 2021
+  qualification: Ph.D. candidate, Computing and Information Science
+  quote: > Rochester Institute of Technology (RIT) is a globally recognized university located in Rochester, New York, USA. Founded in 1829, RIT has a rich history of innovation and excellence in higher education.
+  
+- layout: left
+  name: National University of Defense Technology
+  dates: September 2016 – December 2018
+  qualification: MS, Computer Science
+  quote: > The National University of Defense Technology (NUDT) in Changsha, China, is a key institution under the Ministry of National Defense and the Ministry of Education. Founded in 1953, it specializes in science and engineering with a focus on defense technologies. NUDT is integral to China's defense advancements and technological innovation.
+  
 - layout: left
   name: Zhejiang University
   dates: September 2012 – July 2016
@@ -6,12 +25,4 @@
   quote: >
     Zhejiang University is located in Hangzhou, China, a famous historical and cultural city known as "heaven on earth". The former of it is Qiushi academy, founded in 1897, which is one of the earliest modern institutions of higher learning founded by the Chinese themselves.
   description: | # this will include new lines to allow paragraphs
-    During my time at Zhejiang University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as as vice-president of street dance club, captain of the popping dance team, director of the university student union and national second-level basketball referee.
-- layout: left
-  name: National University of Defense Technology
-  dates: September 2016 – December 2018
-  qualification: MS, Computer Science
-  quote: >
-    
+   
