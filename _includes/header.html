@@ -13,6 +13,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.googleplus_username -%}
+          <li>
+            <a target="_blank" href="https://scholar.google.com/citations?user=jaL1JIoAAAAJ&hl=zh-CN" class="button button--sacnite button--round-l">
+              <i class="fab fa-google-plus" title="Google Scholar link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.facebook_username -%}
           <li>
             <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -73,13 +80,6 @@
           <li>
             <a target="_blank" href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
               <i class="fab fa-youtube" title="Youtube link"></i>
-            </a>
-          </li>
-        {%- endif -%}
-        {%- if site.googleplus_username -%}
-          <li>
-            <a target="_blank" href="https://scholar.google.com/citations?user=jaL1JIoAAAAJ&hl=zh-CN" class="button button--sacnite button--round-l">
-              <i class="fab fa-google-plus" title="Google Scholar link"></i>
             </a>
           </li>
         {%- endif -%}
