@@ -13,23 +13,23 @@ email: zulun.zhu@gmail.com
 #twitter_username: jekyllrb
 github_username:  ZulunZhu
 #dribbble_username: jekyll
-facebook_username: ZulunZhu
+facebook_username: Zulun Zhu
 #flickr_username: jekyll
-#instagram_username: jekyll
+instagram_username: poppingzoo
 #linkedin_username: jekyll
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
-#googleplus_username: +jekyll
+googleplus_username: Zulun Zhu
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: zulunzhu.JPG
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name’s Zulun Zhu and I graduated from Zhejiang university and National University of Defense Technology for bachelor and master stages respectively. Currently I am the second-year student in Rochester Institute of Technology.
-    For the master stage, as well as simultaneous localization and
-    mapping (SLAM) systems I also have experience making swarm intelligent robot operating system and software. During my Phd stage, I am focusing on the Spiking Neural Networks and Graph Neural Networks. 
-    I have worked at a number of projects gaining teamwork and leadership skills.  I am most skilled in <mark>C++</mark>.
+    Hi, my name’s Zulun Zhu and I graduated from Zhejiang University and National University of Defense Technology for bachelor and master stages respectively. Currently, I am a third-year Ph.D. candidate in Nanyang Technological University.
+    During my PhD stage, I am focusing on the Database of Graphs, Machine Learning, Graph Neural Networks, and Spiking Neural Networks. For the master stage, as well as simultaneous localization and
+    mapping (SLAM) systems. 
+    I have worked on a number of projects gaining teamwork and leadership skills. 
 
 
 # Projects Section
