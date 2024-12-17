@@ -44,13 +44,7 @@ projects_title: Publication #(Use this to override about projects section title)
 # More Section
 more_title: Hobbies #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-        Awards:
-       - ĲCAI-24 Travel Grant, Outstanding Contribution Award of CVPR 2024 Embodied Al Workshop, PC member of KDD. 2024
-       - 2nd Place of KDD Cup 2020 – Graph Adversarial Attacks & Defenses Track. 2020
-       - National Scholarship, National Encouragement Scholarship. 2013 -2016
-       - Zeng Xianzi Scholarship. 2013-2016
-       
-      Hobbies:
+      Alongside my interests in database and GNN some of my other interests and hobbies are:
       
        - [Popping dance](https://www.bilibili.com/video/av5022452)
        - Photography
