@@ -6,6 +6,10 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
+    Li J, Wu R, Zhu Y, Zhang H, Jin X, Zhang G, **Zhu Z**, Zheng Z, Chen L. Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective[J]. arXiv preprint arXiv:2410.10241, 2024.
+    
+    Liao N, Liu H, **Zhu Z**, et al. Benchmarking Spectral Graph Neural Networks: A Comprehensive Study on Effectiveness and Efficiency[J]. arXiv preprint arXiv:2406.09675, 2024.
+    
     **Zhu Z**, Wang K, Liu H, Li J, Luo S. Topology-monitorable Contrastive Learning on Dynamic Graphs.//The 30th ACMSIGKDD Conference on Knowledge Discovery and Data Mining (KDD). 2024
 
     Luo S<sup>*</sup>, **Zhu Z**<sup>*</sup> (<sup>*</sup> Ordered alphabetically following the convention of theoretical paper). Massively Parallel Single-Source SimRanks in o(log n) Rounds//33st International Joint Conference On Artificial Intelligence(IJCAI), 2024
