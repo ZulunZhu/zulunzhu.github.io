@@ -40,7 +40,14 @@ projects_title: Publication #(Use this to override about projects section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
+content:
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      
 # More Section
 more_title: Hobbies #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
