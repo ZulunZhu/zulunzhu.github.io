@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Zulun Zhu
 # title: Your job title
-email: zulun.zhu@gmail.com
+email: ZULUN001@ntu.edu.sg
 # phone: Your phone number (optional)
 #website: Your website (eg. https://google.com)(optional)
 
@@ -26,10 +26,10 @@ googleplus_username: Zulun Zhu
 # about_title: About Me (Use this to override about section title)
 about_profile_image: zulunzhu.JPG
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name’s Zulun Zhu and I graduated from **Zhejiang University** and **National University of Defense Technology** for bachelor and master stages respectively. Currently, I am a third-year Ph.D. candidate at **Nanyang Technological University**.
+    Hi, my name’s Zulun Zhu and I graduated from **Zhejiang University** and **National University of Defense Technology** for bachelor and master stages respectively. Currently, I am a fourth-year Ph.D. candidate at **Nanyang Technological University**.
     During my PhD stage, I am focusing on the Database of Graphs, Machine Learning, Graph Neural Networks, and Spiking Neural Networks. For the master stage, simultaneous localization and
     mapping (SLAM) systems are mainly focused on. 
-    I have worked on a number of projects gaining teamwork and leadership skills. 
+  
 
 
 # Projects Section
@@ -42,9 +42,19 @@ projects_title: Publication #(Use this to override about projects section title)
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Awards #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      
+      
+       - ĲCAI-24 Travel Grant, Outstanding Contribution Award of CVPR 2024 Embodied Al Workshop, PC member of KDD. 2024
+       - 2nd Place of KDD Cup 2020 – Graph Adversarial Attacks & Defenses Track. 2020
+       - National Scholarship, National Encouragement Scholarship. 2013 -2016
+       - Zeng Xianzi Scholarship. 2013-2016
+
+# More Section
+more_title: Hobbies #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+      Alongside my interests in database and GNN some of my other interests and hobbies are:
       
        - [Popping dance](https://www.bilibili.com/video/av5022452)
        - Photography
@@ -80,3 +90,4 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
